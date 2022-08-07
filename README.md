@@ -46,5 +46,5 @@ This allows the storage to be reloaded automatically at initialization, which re
 - [Python test cheatsheet](https://www.pythonsheets.com/notes/python-tests.html)
 
 # AUTHOR
-- Deborah Ajayi | speak2debby@gmail.com| [GitHub](https://github.com/speak2debby)
-- Sheldon Avedii
+- Deborah Ajayi |[Email] (speak2debby@gmail.com) |[GitHub](https://github.com/speak2debby)
+- Sheldon Avedii |[Email] (sheldonchris17@gmail.com) |[Github] (https://github.com/braxvalle)
