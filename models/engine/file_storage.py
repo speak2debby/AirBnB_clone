@@ -43,3 +43,7 @@ class FileStorage:
                     self.new(eval('{}({})'.format(cls, '**obj_dict')))
         except FileNotFoundError:
             return
+<<<<<<< HEAD
+=======
+            
+>>>>>>> 3bfd6872242ceade76d13dcaea96e1bc03b825cf

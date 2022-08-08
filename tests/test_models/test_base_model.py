@@ -102,3 +102,7 @@ class TestBaseModel(TestCase):
         obj.save()
         self.assertEqual(old_ctm, obj.created_at)
         self.assertNotEqual(old_utm, obj.updated_at)
+<<<<<<< HEAD
+=======
+        
+>>>>>>> 3bfd6872242ceade76d13dcaea96e1bc03b825cf

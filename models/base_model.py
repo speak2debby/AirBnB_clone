@@ -39,3 +39,7 @@ class BaseModel:
         ''' returns a string representation of the model '''
         return '[{}] ({}) {}'.format(
             self.__class__.__name__, self.id, self.__dict__)
+<<<<<<< HEAD
+=======
+            
+>>>>>>> 3bfd6872242ceade76d13dcaea96e1bc03b825cf
